@@ -4572,3 +4572,45 @@ Start Comment Area Wrapper
 .single-comment-wrap .comment-footer a.btn-reply:hover {
   color: #e80200;
 }
+
+.hero-sub-header {
+  color: #e80200;
+  font-size: 2.5rem;
+}
+
+.hero-header {
+  color: #000000;
+  font-size: 4rem;
+}
+
+@media (min-width: 601px) and (max-width: 1023px) {
+  .home-front-img {
+    max-width: 90%;
+    margin-bottom: 20px;
+  }
+
+  .hero-sub-header {
+    font-size: 2rem;
+  }
+
+  .hero-header {
+    font-size: 3rem;
+  }
+}
+
+/* For Mobile Screens (maximum width of 480px) */
+@media (max-width: 600px) {
+  .home-front-img {
+    max-width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+
+  .hero-sub-header {
+    font-size: 1.5rem;
+  }
+
+  .hero-header {
+    font-size: 2rem;
+  }
+}
