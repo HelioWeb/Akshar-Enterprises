@@ -2792,7 +2792,7 @@ Scroll Top Button
 }
 
 .page-header-content h1 {
-  color: #ffffff;
+  color: #000000;
   font-weight: 600;
   font-size: 32px;
   line-height: 1;
@@ -2836,7 +2836,7 @@ Scroll Top Button
 }
 
 .breadcrumb li a {
-  color: #ffffff;
+  color: #000000;
   font-size: 18px;
   font-family: "Oswald", sans-serif;
   font-weight: 300;

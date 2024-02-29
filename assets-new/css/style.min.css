@@ -2687,7 +2687,7 @@ only screen and (min-width:1200px) {
 }
 
 .page-header-content h1 {
-    color: #fff;
+    color: yellow;
     font-weight: 600;
     font-size: 32px;
     line-height: 1;
